@@ -1,0 +1,10 @@
+{
+	"id": "quick-link",
+	"name": "Quick Link",
+	"version": "1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Insert links quickly into Obsidian by entering the file alias into a modal form.",
+	"author": "Preston Harberts",
+	"authorURL": "https://github.com/prestonharberts",
+	"isDesktopOnly": false
+}
